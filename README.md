@@ -42,14 +42,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senoval67/myimages/main/images/YouTubeSETOPR.jpg" width="500" alt="О программе">
-  <img src="https://raw.githubusercontent.com/senoval67/myimages/main/images/YouTubeSETSV.jpg" width="500" alt="Настройки"><br>
+  <img src="https://raw.githubusercontent.com/senoval67/myimages/main/images/YouTubeSETOPR.jpg" width="700" alt="О программе">
+  <img src="https://raw.githubusercontent.com/senoval67/myimages/main/images/YouTubeSETSV.jpg" width="700" alt="Помощь"><br>
   
-  <i>Слева — «О программе», справа — «Помощь»</i>
+  <i>Сверху — «О программе», Снизу — «Помощь»</i>
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/senoval67/myimages/main/images/YouTubeSETSETI.jpg" width="700" alt="Помощь"><br>
+ <img src="https://raw.githubusercontent.com/senoval67/myimages/main/images/YouTubeSETSETI.jpg" width="700" alt="Настройки"><br>
   <i>Раздел «Настройки»</i>
 </p>
 
